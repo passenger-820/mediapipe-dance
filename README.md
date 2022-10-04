@@ -24,10 +24,12 @@
 # 其他说明
 可视化模块的字体部分，由于源代码要连外网下，所以灭活了一部分，如有需要可后续自行修改
 
+Basic_A-F下需要建两个文件夹，分别为“videos”，“videos——processed”
+
+G-squat_detect下需要建一个文件夹，“squat_videos”
 # package
-python               >= 3.8
-opencv-python        4.5.1.48
-mediapipe            0.8.11
-numpy                1.22.1
-tqdm                 4.64.1
+* python               >= 3.8
+* opencv-python        4.5.1.48
+* mediapipe            0.8.11
+* numpy                1.22.1
 
